@@ -1,0 +1,33 @@
+{
+  "data":{
+    "code": 200,
+    "data": {
+      "ccode": "DAE8A2944089E5E436398CB9539D4117",
+      "bg_image": "http://jzt.facaishu7.com/jzt/static/img/sign-bg.png",
+      "cid": 1709,
+      "is_sms_code": 1,
+      "cy": "qiqihua",
+      "cname": "随心花",
+      "min_quota": 1000,
+      "max_quota": 3000,
+      "min_term": 7,
+      "max_term": 30,
+      "pic_type": 0,
+      "cy_config_c": {
+        "idNumber": "1",
+        "name": "1",
+        "zhima": "0",
+        "password": "0",
+        "pic_code": "0",
+        "verify_code": "1"
+      },
+      "phone": "",
+      "zcode": "1174838",
+      "zid": "1692",
+      "zy": "jixianghua",
+      "zname": "急享花",
+      "pic_type_z": 0
+    },
+    "error": ""
+  }
+}
